@@ -36,3 +36,4 @@ The analysis provides a comprehensive understanding of the NIFTY 50 stock market
 - [Dwip Dutta](https://www.linkedin.com/in/dwip-dutta-30b88a255/)
 - [Ritam Ghosh](https://www.linkedin.com/in/ritam-ghosh-377959225/)
 - [Kanchan Pramanik](https://www.linkedin.com/in/kanchan-pramanik-70381028a)
+- [Dhiman Majumdar](https://in.linkedin.com/in/dhiman-majumder-b7269a28a)
