@@ -1,4 +1,3 @@
-````markdown
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python Version](https://img.shields.io/badge/Python-3.x-green.svg)]
 [![Build Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)]
@@ -43,7 +42,7 @@ Dive into an extensive one-year exploration of the NIFTY 50 index (June 2, 2023 
    ```bash
    git clone https://github.com/yourusername/NIFTY50-Analysis.git
    cd NIFTY50-Analysis
-````
+
 
 2. **Open the project notebook**
 
