@@ -1,7 +1,3 @@
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Python Version](https://img.shields.io/badge/Python-3.x-green.svg)]
-[![Build Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)]
-
 # NIFTY 50 Data Analysis 📈
 
 ## 🚀 Project Overview
